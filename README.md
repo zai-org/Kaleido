@@ -149,7 +149,7 @@ This demonstrates its versatility and generalization ability across different ta
 
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 40%;">
-      <img src="resources/512p/2/image1.jpg" alt="Image 1" style="width: 350px; height: 200px; object-fit: contain;">
+      <img src="resources/512p/2/image1.jpg" alt="Image 1" style="width: 300px; height: 200px; object-fit: contain;">
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 60%;">
       <img src='resources/512p/2/2.gif' style="width: 350px; height: 200px; object-fit: contain;" controls autoplay loop>
@@ -185,7 +185,7 @@ This demonstrates its versatility and generalization ability across different ta
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 40%;">
       <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
         <img src="resources/512p/5/image1.jpg" alt="Image 1" style="width: 170px; height: 200px; object-fit: contain;">
-        <img src="resources/512p/5/image2.jpg" alt="Image 2" style="width: 170px; height: 200px; object-fit: contain;">
+        <img src="resources/512p/5/image2.png" alt="Image 2" style="width: 170px; height: 200px; object-fit: contain;">
       </div>
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 60%;">
@@ -211,7 +211,7 @@ This demonstrates its versatility and generalization ability across different ta
       <div style="display: flex; justify-content: center; gap: 8px; align-items: center; flex-wrap: wrap;">
         <img src="resources/512p/8/image1.jpg" alt="Image 1" style="width: 110px; height: 200px; object-fit: contain;">
         <img src="resources/512p/8/image2.jpg" alt="Image 2" style="width: 110px; height: 200px; object-fit: contain;">
-        <img src="resources/512p/8/image3.jpg" alt="Image 3" style="width: 110px; height: 200px; object-fit: contain;">
+        <img src="resources/512p/8/image3.png" alt="Image 3" style="width: 110px; height: 200px; object-fit: contain;">
       </div>
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 60%;">
