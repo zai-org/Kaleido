@@ -243,12 +243,25 @@ This demonstrates its versatility and generalization ability across different ta
 If you find our work helpful, please cite our paper:
 
 ```bibtex
-@misc{zhang2025kaleidoopensourcedmultisubjectreference,
-      title={Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model}, 
-      author={Zhenxing Zhang and Jiayan Teng and Zhuoyi Yang and Tiankun Cao and Cheng Wang and Xiaotao Gu and Jie Tang and Dan Guo and Meng Wang},
-      year={2025},
-      eprint={2510.18573},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.18573}, 
+@article{DBLP:journals/corr/abs-2510-18573,
+  author       = {Zhenxing Zhang and
+                  Jiayan Teng and
+                  Zhuoyi Yang and
+                  Tiankun Cao and
+                  Cheng Wang and
+                  Xiaotao Gu and
+                  Jie Tang and
+                  Dan Guo and
+                  Meng Wang},
+  title        = {Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model},
+  journal      = {CoRR},
+  volume       = {abs/2510.18573},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2510.18573},
+  doi          = {10.48550/ARXIV.2510.18573},
+  eprinttype    = {arXiv},
+  eprint       = {2510.18573},
+  timestamp    = {Sat, 15 Nov 2025 15:31:50 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2510-18573.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
