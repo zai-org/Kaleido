@@ -149,7 +149,7 @@ This demonstrates its versatility and generalization ability across different ta
 
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 40%;">
-      <img src="resources/512p/2/image1.jpg" alt="Image 1" style="width: 220px; height: 200px; object-fit: contain;">
+      <img src="resources/512p/2/image1.jpg" alt="Image 1" style="width: 200px; height: 200px; object-fit: contain;">
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 60%;">
       <img src='resources/512p/2/2.gif' style="width: 350px; height: 200px; object-fit: contain;" controls autoplay loop>
