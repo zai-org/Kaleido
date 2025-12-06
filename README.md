@@ -158,7 +158,7 @@ Note: Please update the dataset directory paths in the YAML configuration file t
 ```
 bash multi_gpu_training.sh 
 ```
-**Note:** Our training strategy is based on the CogivideoX model. For detailed information about the training process, please refer to the [CogivideoX repository](https://github.com/zai-org/CogVideo).In addition to the DeepSpeed training approach, we also provide an implementation using FSDP2 for distributed training.
+**Note:** Our training strategy is based on the CogivideoX model. For detailed information about the training process, please refer to the [CogivideoX repository](https://github.com/zai-org/CogVideo). In addition to the DeepSpeed training approach, we also provide an implementation using FSDP2 for distributed training.
 
 ## Gallery
 
