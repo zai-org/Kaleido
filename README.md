@@ -126,8 +126,37 @@ prompt@@image1.png@@image2.png@@image3.png
 
 ### Training
 
+#### Preparing the Dataset
+
+The dataset should be structured as follows:
+
 ```
-python train_video_concat.py --base configs/video_model/dit_crossattn_14B_wanvae.yaml configs/training/video_wabx_14B_concat.yaml
+.
+├── labels
+│   ├── 1.txt
+│   ├── 2.txt
+│   ├── 3.txt
+│   ├── ...
+├── videos
+│   ├── 1.mp4
+│   ├── 2.mp4
+│   ├── 3.mp4
+│   ├── ...
+└── references
+    ├── 1
+    │   ├── ref1.png
+    │   ├── ref2.png
+    │   └── ref3.png
+    ├── 2
+    │   ├── ref1.png
+    │   ├── ref2.png
+    │   └── ref3.png
+    ├── ...
+```
+After you have prepared the dataset, you can execute the following command to generate the training data.
+Note: Please update the dataset directory paths in the YAML configuration file to match your local setup before running. 
+```
+bash multi_gpu_training.sh 
 ```
 **Note:** Our training strategy is based on the CogivideoX model. For detailed information about the training process, please refer to the [CogivideoX repository](https://github.com/zai-org/CogVideo).In addition to the DeepSpeed training approach, we also provide an implementation using FSDP2 for distributed training.
 

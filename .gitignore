@@ -4,3 +4,7 @@ __pycache__/
 sat_old/
 Kaleido-14B-S2V/
 results/
+*.png
+test*
+dataset_example/*
+runs/*
