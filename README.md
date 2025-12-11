@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 | ckpts       | Download Link                                                                                                                                           |    Notes                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Kaleido-14B | 🤗 [Huggingface](https://huggingface.co/Crilias/Kaleido-14B-S2V/tree/main)   | Supports  512P
+| Kaleido-14B | 🤗 [Hugging Face](https://huggingface.co/Crilias/Kaleido-14B-S2V)   | Supports  512P
 
 Use the following commands to download the model weights
 (We have integrated both Wan VAE and T5 modules into this checkpoint for convenience).
