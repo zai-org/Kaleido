@@ -67,14 +67,14 @@ pip install -r requirements.txt
 
 | ckpts       | Download Link                                                                                                                                           |    Notes                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Kaleido-14B | 🤗 [Hugging Face](https://huggingface.co/Crilias/Kaleido-14B-S2V)   | Supports  512P
+| Kaleido-14B | 🤗 [Hugging Face](https://huggingface.co/zai-org/Kaleido-14B-S2V)   | Supports  512P
 
 Use the following commands to download the model weights
 (We have integrated both Wan VAE and T5 modules into this checkpoint for convenience).
 
 ```bash
 # Download the repository (skip automatic LFS file downloads)
-GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/Crilias/Kaleido-14B-S2V
+GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/zai-org/Kaleido-14B-S2V
 
 # Enter the repository folder
 cd Kaleido-14B-S2V
