@@ -2,7 +2,7 @@
 This repository is intended to store the code and ckpt for Kaleido .
 
 <div align="center">
-<img src='resources/examples_show.png' style="height: 150px;">
+<img src='resources/examples_show.png' style="height: 500px;">
 </div>
 
 ## Update and News
